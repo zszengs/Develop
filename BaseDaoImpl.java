@@ -14,6 +14,7 @@ import blog.pojo.PageBean;
 import blog.util.QueryHelper;
 
 
+
 // @Transactional注解可以被继承
 // @Transactional注解对父类中声明的方法无效
 @Transactional
